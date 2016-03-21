@@ -4,6 +4,7 @@ Python scripts developed to model and solve a linear optimization problem using 
 The problem statement is:
 
 Given
+
 1. O offices and C data centers,
 2. a fixed cost fc per data center,
 3. an additional segmented cost with P segments,
