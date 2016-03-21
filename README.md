@@ -12,6 +12,8 @@ Given
 5. that at least two centers must contain the data of each office o,
 6. that each office contains d[o] Peta-Bytes,
 7. that each center can store k[c] Peta-Bytes,
+
 we want to know
+
 1. which data centers should each office use, and
 2. how much data each office has to store at each data center.
